@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="calculator.CalculatorTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-09-08T15:32:00" hostname="Aludey-PC" time="0.019">
+  <properties/>
+  <testcase name="calcAdd()" classname="calculator.CalculatorTest" time="0.018"/>
+  <testcase name="calcMul()" classname="calculator.CalculatorTest" time="0.0"/>
+  <system-out><![CDATA[init
+calcAdd
+init
+calcAdd
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
